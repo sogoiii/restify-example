@@ -39,11 +39,11 @@ If everything is working as expected, the terminal should output `Welcome to the
 Making Requests:
 ----
 
-Below are ways you can git the api. You can use an application like paw, postman, curl, or the browser. Postman is very similar to paw, but not setup in this example.
+Below are ways you can git the api. You can use an application like [paw](https://paw.cloud/), [Postman](https://www.getpostman.com/), curl, or the browser. [Postman](https://www.getpostman.com/) is very similar to [paw](https://paw.cloud/), but not setup in this example.
 
 
 ### Paw
-In the project, I setup a paw project that will call the endpoint with a success case and a failure case. Just open the uber.paw file within paw and run the endpoints.
+In the project, I setup a [paw](https://paw.cloud/) project that will call the endpoint with a success case and a failure case. Just open the uber.paw file within [paw](https://paw.cloud/) and run the endpoints.
 
 
 ### curl
